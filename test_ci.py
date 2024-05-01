@@ -3,4 +3,4 @@ def greet(name: int) -> str:
     return 42
 
 
-greet("tatchi")
+greet("tatchi wiggers")
